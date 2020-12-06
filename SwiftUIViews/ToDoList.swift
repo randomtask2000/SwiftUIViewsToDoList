@@ -27,7 +27,11 @@ struct ToDoList: View {
                         Text(todo.title)
                     }
                     
-                }
+                }.onDelete(perform: { indexSet in
+                    if let index = indexSet.first {
+                        self.toDoStorage.toDos.remove(at: index)
+                    }
+                })
             }.navigationBarTitle(Text("To Dos"))
             .navigationBarItems(trailing: NavigationLink(destination: CreateToDo(),
                                                                         label: {
