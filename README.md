@@ -1,5 +1,5 @@
 # Welcome to my first SwiftUI app
-I coded this up from a PluralSight tutorial entitled "Build Your First SwiftUI App in Under 90mins" by [Nick Walter](https://app.pluralsight.com/profile/author/nick-walter).  
+I coded this up from a PluralSight tutorial entitled **"Build Your First SwiftUI App in Under 90mins"** by [Nick Walter](https://app.pluralsight.com/profile/author/nick-walter).  
 
 ## Patterns
 Some of the principles and patterns followed in this rep are:
