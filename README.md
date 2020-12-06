@@ -10,5 +10,5 @@ Some of the principles and patterns followed in this rep are:
 * State Persistence 
 
 ## Thoughts
-I have to admit that it's hard to get going in Swift because of the various versions and patterns that have changed the look and feel quite a bit over the years. But, I hope this repo helps you get start as I'm trying to now. 
+I have to admit that it's not easy to get going in Swift because of the various versions and patterns that have changed the look and feel quite a bit over the years. But, I hope this repo helps you get start as I'm trying to now. 
 
