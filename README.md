@@ -1,6 +1,9 @@
 # Welcome to my first SwiftUI app
 I coded this up from a PluralSight tutorial entitled *"Build Your First SwiftUI App in Under 90mins"* by [Nick Walter](https://app.pluralsight.com/profile/author/nick-walter).  
 
+## it looks like this
+![](./SwiftUIToDoList_view1.png)
+
 ## Patterns
 Some of the principles and patterns followed in this repo are:
 * Views in SwiftUI
