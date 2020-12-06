@@ -21,6 +21,9 @@
 		700C8048257C47FB000166D8 /* CreateToDo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 700C8047257C47FB000166D8 /* CreateToDo.swift */; };
 		700C8049257C47FB000166D8 /* CreateToDo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 700C8047257C47FB000166D8 /* CreateToDo.swift */; };
 		700C804A257C47FB000166D8 /* CreateToDo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 700C8047257C47FB000166D8 /* CreateToDo.swift */; };
+		700C8052257C9B41000166D8 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 700C8051257C9B41000166D8 /* README.md */; };
+		700C8053257C9B41000166D8 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 700C8051257C9B41000166D8 /* README.md */; };
+		700C8054257C9B41000166D8 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 700C8051257C9B41000166D8 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +58,7 @@
 		700C8030257C2B51000166D8 /* ToDoList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ToDoList.swift; sourceTree = "<group>"; };
 		700C8040257C403F000166D8 /* ToDoItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoItem.swift; sourceTree = "<group>"; };
 		700C8047257C47FB000166D8 /* CreateToDo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateToDo.swift; sourceTree = "<group>"; };
+		700C8051257C9B41000166D8 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +89,7 @@
 		700C7FB32579AEFD000166D8 = {
 			isa = PBXGroup;
 			children = (
+				700C8051257C9B41000166D8 /* README.md */,
 				700C7FBE2579AEFD000166D8 /* SwiftUIViews */,
 				700C7FD02579AF01000166D8 /* SwiftUIViewsTests */,
 				700C7FDB2579AF01000166D8 /* SwiftUIViewsUITests */,
@@ -245,6 +250,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				700C8052257C9B41000166D8 /* README.md in Resources */,
 				700C7FC72579AF00000166D8 /* Preview Assets.xcassets in Resources */,
 				700C7FC42579AF00000166D8 /* Assets.xcassets in Resources */,
 			);
@@ -254,6 +260,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				700C8053257C9B41000166D8 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,6 +268,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				700C8054257C9B41000166D8 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
