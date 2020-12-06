@@ -10,6 +10,9 @@
 		7005B16D257D36F700B0A751 /* SwiftUIToDoList_view1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7005B16C257D36F700B0A751 /* SwiftUIToDoList_view1.png */; };
 		7005B16E257D36F700B0A751 /* SwiftUIToDoList_view1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7005B16C257D36F700B0A751 /* SwiftUIToDoList_view1.png */; };
 		7005B16F257D36F700B0A751 /* SwiftUIToDoList_view1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7005B16C257D36F700B0A751 /* SwiftUIToDoList_view1.png */; };
+		7005B177257D37E000B0A751 /* SwiftUIToDoList_view2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7005B176257D37E000B0A751 /* SwiftUIToDoList_view2.png */; };
+		7005B178257D37E000B0A751 /* SwiftUIToDoList_view2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7005B176257D37E000B0A751 /* SwiftUIToDoList_view2.png */; };
+		7005B179257D37E000B0A751 /* SwiftUIToDoList_view2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7005B176257D37E000B0A751 /* SwiftUIToDoList_view2.png */; };
 		700C7FC02579AEFD000166D8 /* ToDoListApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 700C7FBF2579AEFD000166D8 /* ToDoListApp.swift */; };
 		700C7FC42579AF00000166D8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 700C7FC32579AF00000166D8 /* Assets.xcassets */; };
 		700C7FC72579AF00000166D8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 700C7FC62579AF00000166D8 /* Preview Assets.xcassets */; };
@@ -48,6 +51,7 @@
 
 /* Begin PBXFileReference section */
 		7005B16C257D36F700B0A751 /* SwiftUIToDoList_view1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SwiftUIToDoList_view1.png; sourceTree = "<group>"; };
+		7005B176257D37E000B0A751 /* SwiftUIToDoList_view2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SwiftUIToDoList_view2.png; sourceTree = "<group>"; };
 		700C7FBC2579AEFD000166D8 /* SwiftUIToDoList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIToDoList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		700C7FBF2579AEFD000166D8 /* ToDoListApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListApp.swift; sourceTree = "<group>"; };
 		700C7FC32579AF00000166D8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -95,6 +99,7 @@
 			children = (
 				700C8051257C9B41000166D8 /* README.md */,
 				7005B16C257D36F700B0A751 /* SwiftUIToDoList_view1.png */,
+				7005B176257D37E000B0A751 /* SwiftUIToDoList_view2.png */,
 				700C7FBE2579AEFD000166D8 /* SwiftUIToDoList */,
 				700C7FD02579AF01000166D8 /* SwiftUIToDoListTests */,
 				700C7FDB2579AF01000166D8 /* SwiftUIToDoListUITests */,
@@ -256,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				700C8052257C9B41000166D8 /* README.md in Resources */,
+				7005B177257D37E000B0A751 /* SwiftUIToDoList_view2.png in Resources */,
 				7005B16D257D36F700B0A751 /* SwiftUIToDoList_view1.png in Resources */,
 				700C7FC72579AF00000166D8 /* Preview Assets.xcassets in Resources */,
 				700C7FC42579AF00000166D8 /* Assets.xcassets in Resources */,
@@ -268,6 +274,7 @@
 			files = (
 				700C8053257C9B41000166D8 /* README.md in Resources */,
 				7005B16E257D36F700B0A751 /* SwiftUIToDoList_view1.png in Resources */,
+				7005B178257D37E000B0A751 /* SwiftUIToDoList_view2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -277,6 +284,7 @@
 			files = (
 				700C8054257C9B41000166D8 /* README.md in Resources */,
 				7005B16F257D36F700B0A751 /* SwiftUIToDoList_view1.png in Resources */,
+				7005B179257D37E000B0A751 /* SwiftUIToDoList_view2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
